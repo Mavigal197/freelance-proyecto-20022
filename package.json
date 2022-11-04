@@ -1,0 +1,22 @@
+{
+  "name": "freelance-proyecto-20022",
+  "version": "1.0.0",
+  "description": "proyecto marcela viviana galarza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavigal197/freelance-proyecto-20022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavigal197/freelance-proyecto-20022/issues"
+  },
+  "homepage": "https://github.com/Mavigal197/freelance-proyecto-20022#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
